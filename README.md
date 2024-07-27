@@ -1,7 +1,7 @@
 - 你好我是 @Php4220
 
 Datos interesante:
-Requiere estudiantes para colaboradores con ganas ded emprender.
+Requiere estudiantes para colaboradores con ganas de emprender.
    .
   
 奇怪的事实：
