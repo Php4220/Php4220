@@ -11,5 +11,4 @@ Requiere estudiantes para colaboradores con ganas de emprender.
 興味深いデータ:
 それには真剣な協力者と研究が必要です。
    学びたいという意欲を持って準備をしてください。
-ogflack21 @proton.me
 
