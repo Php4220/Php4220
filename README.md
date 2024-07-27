@@ -2,13 +2,14 @@
 
 Datos interesante:
 Requiere estudiantes en informática para colaboradores con ganas de emprender.
+
+
+Interesting data: Requires computer science students for collaborators who want to start a business. .
+
    .
-  
-奇怪的事实：
 
-需要学生愿意承担
+  有趣的數據：需要電腦科學專業的學生作為想要創業的合作者
 
-興味深いデータ:
-それには真剣な協力者と研究が必要です。
-   学びたいという意欲を持って準備をしてください。
 
+
+興味深いデータ: ビジネスを始めたい協力者には、コンピューター サイエンスの学生が必要です
