@@ -1,10 +1,4 @@
-- 你好我是 @Php4220
 
-Datos interesante:
-Requiere estudiantes en informática para colaboradores con ganas de emprender.
-
-
-Interesting data: Requires computer science students for collaborators who want to start a business. .
 
    .
 
